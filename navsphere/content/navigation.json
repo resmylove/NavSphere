@@ -822,7 +822,7 @@
           "title": "StrErr Tool",
           "href": "https://www.strerr.com/cn/markdown2word.html",
           "description": "该网站能够将markdown转换成word,jpg,pdf,html",
-          "icon": "https://www.strerr.com/icon/infinite_arrow_favicon_5.ico",
+          "icon": "/assets/img_1753870351708.png",
           "enabled": true
         }
       ],
