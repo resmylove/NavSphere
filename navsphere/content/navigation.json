@@ -809,6 +809,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1753869999121",
+      "title": "文件类型转换",
+      "icon": "FolderKanban",
+      "description": "收集了能将各个类型的文件相互转换的网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
