@@ -827,6 +827,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1753923969910",
+      "title": "编程语言教程",
+      "icon": "Folder",
+      "description": "这是一个集合了多种编程语言教程的合集，里面都是十分优秀的教程。",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
